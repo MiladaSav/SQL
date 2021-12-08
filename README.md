@@ -1,2 +1,2 @@
 # SQL
-![](https://github.com/MiladaSav/Certificates/blob/main/stepik_sql.pdf)
+![](stepik_sql.pdf)
