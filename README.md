@@ -1,2 +1,2 @@
 # SQL
-![](stepik_sql.pdf)
+![](sql_serf.png)
